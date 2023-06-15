@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.3291b027.css",
+    "main.js": "/react-gh-pages/static/js/main.3ae92123.js",
+    "static/js/787.633816a4.chunk.js": "/react-gh-pages/static/js/787.633816a4.chunk.js",
+    "static/media/programming evolution.jpg": "/react-gh-pages/static/media/programming evolution.994390b898b721c303c3.jpg",
+    "static/media/single.png": "/react-gh-pages/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/react-gh-pages/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/react-gh-pages/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.3291b027.css.map": "/react-gh-pages/static/css/main.3291b027.css.map",
+    "main.3ae92123.js.map": "/react-gh-pages/static/js/main.3ae92123.js.map",
+    "787.633816a4.chunk.js.map": "/react-gh-pages/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3291b027.css",
+    "static/js/main.3ae92123.js"
+  ]
+}
